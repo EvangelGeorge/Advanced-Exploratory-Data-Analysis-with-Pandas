@@ -1,5 +1,8 @@
-#  Web Scraping Book Site Project
-This project involves web scraping a book website to extract valuable information using the requests library for making HTTP requests and BeautifulSoup for parsing HTML content.
+#  Advanced EDA with Pandas and Seaborn
+
+This project involves the use of Pandas to perform EDA with IMDB movies dataset.
+
 ## Technologies Used
-- requests library
-- BeautifulSoup library
+
+- Pandas library
+- Seaborn library
